@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harivarunbhagavan intern @Havells_India
+- 👋 Hi, I’m @harivarunbhagavan Software Intern@Havells_India
 - 🌱 I’m currently learning Javascript, AngularJs, NodeJs, Azure DevOps.
 - 📫 How to reach me https://www.linkedin.com/in/m-hari-varun-bhagavan-547538182/
 
